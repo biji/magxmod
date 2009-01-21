@@ -1,0 +1,1210 @@
+[067a149d-00b4-4ba3-b839-11ab2dbd88c0]
+AniIcon = motosync_ani.g
+AppID = {067a149d-00b4-4ba3-b839-11ab2dbd88c0}
+Args = ;m
+Attribute = 1
+BigIcon = motosync_std.g
+Daemon = 0
+Directory = motosync
+Exec = motosync
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = MOTOSYNC
+Type = 2
+UserID = ezx
+
+[0a92f2c5-584d-440a-954c-1a155079d71a]
+AniIcon = ctact_ani.g
+AppID = {0a92f2c5-584d-440a-954c-1a155079d71a}
+Args = 
+Attribute = 1
+BigIcon = ctact_std.g
+Daemon = 1
+Directory = addressbook
+Exec = addrbk
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Contacts
+Type = 2
+UserID = ezx
+
+[0b6c1459-2fbe-4b2e-95c9-a4f93762fa11]
+AniIcon = calculator_ani.g
+AppID = {0b6c1459-2fbe-4b2e-95c9-a4f93762fa11}
+Args = 
+Attribute = 1
+BigIcon = calculator_std.g
+Daemon = 0
+Directory = calculator
+Exec = calculator
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Calculator
+Type = 2
+UserID = ezx
+
+[0f0c629a-9524-4fc9-8429-6df7dedf394d]
+AniIcon = 
+AppID = {0f0c629a-9524-4fc9-8429-6df7dedf394d}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = modem
+Exec = modem
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Modem
+Type = 2
+UserID = ezx
+
+[1178f368-c398-4ec6-bac7-d833fd21e188]
+AniIcon = 
+AppID = {eb475096-b5fe-4571-b916-b19014f0fa44}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = dm
+Exec = dm
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = DM
+Type = 2
+UserID = ezx
+
+[14522afa-955e-48e4-8e39-c31ea2fae5f3]
+AniIcon = 
+AppID = {14522afa-955e-48e4-8e39-c31ea2fae5f3}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = print_apps
+Exec = printapp
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Print
+Type = 2
+UserID = ezx
+
+[1e6b9963-24cc-41f8-bbee-a23ae761ff81]
+AniIcon = calen_ani.g
+AppID = {1e6b9963-24cc-41f8-bbee-a23ae761ff81}
+Args = 
+Attribute = 1
+BigIcon = calen_std.g
+Daemon = 0
+Directory = calendar
+Exec = calendar
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = Calendar
+Type = 2
+UserID = ezx
+
+[220072c6-9008-468e-9968-11f3c50fa95e]
+AniIcon = msg_ani.g
+AppID = {220072c6-9008-468e-9968-11f3c50fa95e}
+Args = 
+Attribute = 1
+BigIcon = msg_std.g
+Daemon = 1
+Directory = messaging
+Exec = messaging
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Messages
+Type = 2
+UserID = ezx
+
+[23723ec3-ab86-408a-86c0-f70ac6f5c153]
+AniIcon = world_clock_ani.g
+AppID = {23723ec3-ab86-408a-86c0-f70ac6f5c153}
+Args = 
+Attribute = 1
+BigIcon = world_clock_std.g
+Daemon = 0
+Directory = worldclock
+Exec = worldclock
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = World Clock
+Type = 2
+UserID = ezx
+
+[28ff7b93-0139-4c33-af5a-5a04ad5052f0]
+AniIcon = service_dial_ani.g
+AppID = {d5a68f04-8d4b-4964-9d85-870f5cdad20c}
+Args = 
+Attribute = 1
+BigIcon = service_dial_std.g
+Daemon = 1
+Directory = servicedial
+Exec = servicedial
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = ServiceDial
+Type = 2
+UserID = ezx
+
+[2bd332b9-bfe4-4789-9221-db13491f7b09]
+AniIcon = carrier_ani.g
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+Attribute = 8
+BigIcon = carrier_std.g
+Directory = 
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Y Portal
+Type = 3
+Url = http://www.motorola.com
+
+[2df88095-a2bc-431d-92c6-f4573733a9d5]
+AniIcon = 
+AppID = {2df88095-a2bc-431d-92c6-f4573733a9d5}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = mtp
+Exec = mtpmgr
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Media Sync
+Type = 2
+UserID = root
+
+[32d4c7dd-df1a-4da7-986e-9d844934f1ff]
+AniIcon = google_ani.g
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+Attribute = 8
+BigIcon = google_mm_icn_49.k
+Directory = 
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Google
+Type = 3
+Url = http://www.google.com/xhtml?client=ms-motorola_mb_mf&channel=sk
+
+[3fb732ee-6aad-405f-a0a0-6f8aaef0e603]
+AniIcon = pfile_ani.g
+AppID = {3fb732ee-6aad-405f-a0a0-6f8aaef0e603}
+Args = 
+Attribute = 1
+BigIcon = pfile_std.g
+Daemon = 0
+Directory = systemsetup
+Exec = setupprofile
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Sound Profile
+Type = 2
+UserID = ezx
+
+[4c99e984-bbc1-455f-981e-e5e06dec6872]
+AniIcon = fem_ani.gif
+AppID = {08e91b63-2234-4880-8b2c-0a2ae9fab35c}
+Args = 
+Attribute = 1
+BigIcon = fem_std.png
+Daemon = 0
+Directory = efem
+Exec = fem
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Engineering
+Type = 2
+UserID = root
+
+[4cd33544-f012-426e-b4ce-5d8b2ca7cfb3]
+AniIcon = 
+AppID = {4cd33544-f012-426e-b4ce-5d8b2ca7cfb3}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 1
+Directory = uac
+Exec = uac
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = UAC
+Type = 2
+UserID = ezx
+
+[4d690409-f29f-48f4-8967-48fc151b2272]
+AniIcon = voice_rec_ani.g
+AppID = {4d690409-f29f-48f4-8967-48fc151b2272}
+Args = 
+Attribute = 1
+BigIcon = voice_rec_std.g
+Daemon = 0
+Directory = voicenote
+Exec = voicenote
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Voice Recorder
+Type = 2
+UserID = ezx
+
+[52cf9003-ee08-442d-ab8f-d73ab537b2e8]
+AniIcon = 
+AppID = {52cf9003-ee08-442d-ab8f-d73ab537b2e8}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = /usr/SYSjava
+Exec = kvm
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = KVM
+Type = 2
+UserID = ezx
+
+[5af701f6-33e3-4fe6-b15e-b7ef7c986c74]
+AniIcon = phone_setting_ani.g
+AppID = {5af701f6-33e3-4fe6-b15e-b7ef7c986c74}
+Args = 
+Attribute = 1
+BigIcon = phone_setting_std.g
+Daemon = 0
+Directory = systemsetup
+Exec = systemsetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Phone Settings
+Type = 2
+UserID = ezx
+
+[5b608840-eb39-4d34-bfdb-8806436d140d]
+AniIcon = Home_Service_ani.gif
+AppID = {897fb59e-d690-4aae-b3a0-fe489aebdbcb}
+Args = 
+Attribute = 1
+BigIcon = Home_Service_B.gif
+Daemon = 0
+Directory = service
+Exec = service
+FixedAllPosition = 0
+FixedPostion = 0
+GroupID = ezx
+Icon = Home_Service_S.gif
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Customer Services
+Type = 2
+UserID = ezx
+
+[5c6d4cb1-6e91-4a0c-b056-082e64b246b6]
+AniIcon = motosync_ani.gif
+AppID = {067a149d-00b4-4ba3-b839-11ab2dbd88c0}
+Args = ;o
+Attribute = 1
+BigIcon = main_menu.png
+Daemon = 0
+Directory = motosync
+Exec = motosync
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = AirSync
+Type = 2
+UserID = ezx
+
+[5d73dbd1-a51a-4a46-b7ac-4a34a32ceb5e]
+AniIcon = fixed_dial_ani.g
+AppID = {fc182488-537d-4355-aab2-9a0167dbf1eb}
+Args = 
+Attribute = 1
+BigIcon = fixed_dial_std.g
+Daemon = 1
+Directory = fixeddial
+Exec = fixeddial
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = FixedDial
+Type = 2
+UserID = ezx
+
+[5e558577-7be1-405a-a888-e65d20a2908a]
+Action = RecordingVideo
+AniIcon = vid_camera_ani.g
+AppID = {c1e0df66-11ef-4b33-bddb-0cbd13827312}
+Attribute = 7
+BigIcon = vid_camera_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Video Camera
+Type = 4
+
+[624f81e5-3739-43aa-afd2-1a30bb3162d3]
+AniIcon = 
+AppID = {624f81e5-3739-43aa-afd2-1a30bb3162d3}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 1
+Directory = vcm
+Exec = vcm
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = VCM
+Type = 2
+UserID = root
+
+[626d3290-2ec3-4b34-88f8-a3641dbc5f85]
+AniIcon = netwk_ani.g
+AppID = {626d3290-2ec3-4b34-88f8-a3641dbc5f85}
+Args = 
+Attribute = 1
+BigIcon = netwk_std.g
+Daemon = 0
+Directory = phone
+Exec = networksetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Network Settings
+Type = 2
+UserID = ezx
+
+[67dc1191-2928-4938-abce-1a73cb5ce490]
+AniIcon = games_ani.g
+Attribute = 7
+BigIcon = games_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Games
+Type = 1
+
+[691bbbc0-a7a6-4206-80c5-a158a0a997b9]
+AniIcon = 
+AppID = {ab5d34ee-042c-4dd9-87eb-c37e4f79ec8f}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = drm
+Exec = drm
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = DRM
+Type = 2
+UserID = ezx
+
+[6aff7618-c940-48d9-ad3b-3106d9a884c2]
+AniIcon = alarm_clock_ani.g
+AppID = {6aff7618-c940-48d9-ad3b-3106d9a884c2}
+Args = 
+Attribute = 1
+BigIcon = alarm_clock_std.g
+Daemon = 0
+Directory = alarmclock
+Exec = alarmclock
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Alarm Clock
+Type = 2
+UserID = ezx
+
+[6fa3caba-d2a0-4841-ba27-cc2714c1d50f]
+Action = MYSTUFF_GOTO_VIDEO
+AniIcon = multimedia_ani.g
+AppID = {9faafa35-0688-4529-8310-04f215cb2d0c}
+Attribute = 7
+BigIcon = fm_vid_thb.gif
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Videos
+Type = 4
+
+[7d721cad-0453-446f-89d2-a7ecc201675e]
+AniIcon = 
+AppID = {7d721cad-0453-446f-89d2-a7ecc201675e}
+Args = 
+Attribute = 8
+BigIcon = 
+Daemon = 0
+Directory = dynamicidle
+Exec = disetting
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = NewsExta
+Type = 2
+UserID = ezx
+
+[8109e0c0-2601-44e5-9e0f-6165fac9ff69]
+AniIcon = 
+AppID = {8109e0c0-2601-44e5-9e0f-6165fac9ff69}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 1
+Directory = wsp
+Exec = wsp
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = WSPServer
+Type = 2
+UserID = root
+
+[83e501e2-4308-4691-a971-e771221197e4]
+AniIcon = help_ani.gif
+AppID = {83e501e2-4308-4691-a971-e771221197e4}
+Args = 
+Attribute = 1
+BigIcon = help_std.png
+Daemon = 0
+Directory = Help
+Exec = IconDirect
+FixedAllPosition = 0
+FixedPostion = 0
+GroupID = ezx
+Icon = help_std.png
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Help
+Type = 2
+UserID = ezx
+
+[949dc9d2-8ca6-44d9-9f21-67fac1177a22]
+AniIcon = im_ani.g
+AppID = {949dc9d2-8ca6-44d9-9f21-67fac1177a22}
+Args = -auto;-manual
+Attribute = 1
+BigIcon = im_std.g
+Daemon = 0
+Directory = wvimps
+Exec = wvimps
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = IM
+Type = 2
+UserID = ezx
+
+[95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40]
+AniIcon = web_access_ani.g
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+Args = ;-webaccess
+Attribute = 1
+BigIcon = web_access_std.g
+Daemon = 1
+Directory = opera
+Exec = brwdaemon
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = Web Access
+Type = 2
+UserID = ezx
+
+[9667de53-e43e-47bd-96ff-89c06dc3cdbd]
+AniIcon = bluetooth_ani.g
+AppID = {9667de53-e43e-47bd-96ff-89c06dc3cdbd}
+Args = -a;
+Attribute = 1
+BigIcon = bluetooth_std.g
+Daemon = 1
+Directory = bluetooth
+Exec = bluetooth
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Bluetooth
+Type = 2
+UserID = ezx
+
+[9a4cdb74-34ec-415e-ba36-b8c2a35d0071]
+AniIcon = task_list_ani.g
+AppID = {9a4cdb74-34ec-415e-ba36-b8c2a35d0071}
+Args = 
+Attribute = 1
+BigIcon = task_list_std.g
+Daemon = 0
+Directory = tasks
+Exec = tasks
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = Task List
+Type = 2
+UserID = ezx
+
+[9aaa6311-ae30-4114-92b9-9bd0b3faf861]
+AniIcon = 
+AppID = {1d619a59-37c2-4893-b9d1-0d8cc3da0699}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 1
+Directory = am/bin
+Exec = native_screensaver
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = native_screensaver
+Type = 2
+UserID = ezx
+
+[9faafa35-0688-4529-8310-04f215cb2d0c]
+AniIcon = fm_ani.g
+AppID = {9faafa35-0688-4529-8310-04f215cb2d0c}
+Args = 
+Attribute = 1
+BigIcon = fm_std.g
+Daemon = 0
+Directory = mystuff
+Exec = mystuff
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = File Manager
+Type = 2
+UserID = ezx
+
+
+[a226e86a-0ba2-40bc-9636-56f466fde523]
+AniIcon = dialing_service_ani.g
+AppID = {a226e86a-0ba2-40bc-9636-56f466fde523}
+Args = 
+Attribute = 1
+BigIcon = dialing_service_std.g
+Daemon = 0
+Directory = phone
+Exec = callsetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Call Settings
+Type = 2
+UserID = ezx
+
+[a34ef25d-d791-4aee-943d-db5db70c6220]
+AniIcon = themes_ani.g
+AppID = {a34ef25d-d791-4aee-943d-db5db70c6220}
+Args = 
+Attribute = 1
+BigIcon = themes_std.g
+Daemon = 0
+Directory = systemsetup
+Exec = themesetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Themes
+Type = 2
+UserID = ezx
+
+[abd77827-67dc-4407-a159-7692f87993fe]
+Action = opendlmasapp
+AniIcon = dwnld_mgr_ani.g
+AppID = {ea1572d1-bf6c-4533-bd73-98c423b94369}
+Attribute = 7
+BigIcon = dwnld_mgr_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+LockEnabled = 0
+Name = Download Manager
+Type = 4
+
+[ad42b281-3308-4980-b0c9-0e0b866b40cf]
+Action = MYSTUFF_GOTO_PICTURE
+AniIcon = multimedia_ani.g
+AppID = {9faafa35-0688-4529-8310-04f215cb2d0c}
+Attribute = 7
+BigIcon = fm_pic_thb.gif
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Pictures
+Type = 4
+
+[b18dbbd2-503a-4442-9308-5575ee38c210]
+AniIcon = multimedia_ani.g
+Attribute = 7
+BigIcon = multimedia_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Multimedia
+Type = 1
+
+[b86502c1-6115-4adb-acb4-be2c5eac68df]
+AniIcon = 
+AppID = {87355437-d7d2-463a-946d-a6c5cc6c361a}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = inetsetup
+Exec = netsetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Data Connections
+Type = 2
+UserID = ezx
+
+[b92adf27-d073-451d-a990-4ac5e0c87596]
+AniIcon = logo_New_s.bmp
+AppID = {b92adf27-d073-451d-a990-4ac5e0c87596}
+Args = 
+Attribute = 1
+BigIcon = logo_New_s.bmp
+Daemon = 0
+Directory = flashclient
+Exec = flashclient
+FixedAllPosition = 0
+FixedPostion = 0
+GroupID = ezx
+Icon = logo_New_X.bmp
+LockEnabled = 0
+MassStorageStatus = 0
+Name = flashclient
+Type = 2
+UserID = ezx
+
+[ba63e2ca-089c-4a95-8e13-81522eed47a0]
+AniIcon = media_finder_ani.g
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+Args = 
+Attribute = 1
+BigIcon = media_finder_std.g
+Daemon = 0
+Directory = mediaplayer
+Exec = mediaplayer
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Music Library
+Type = 2
+UserID = root
+
+[bacc9585-ae26-4cf9-8e72-fb520709b4b0]
+AniIcon = sim_apps_ani.g
+AppID = {bacc9585-ae26-4cf9-8e72-fb520709b4b0}
+Args = 
+Attribute = 1
+BigIcon = sim_apps_std.g
+Daemon = 0
+Directory = stk
+Exec = stk
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = SIM Application
+Type = 2
+UserID = ezx
+
+[bb621a8f-c681-477f-9d15-9c4b53b37a3e]
+AniIcon = email_ani.g
+AppID = {bb621a8f-c681-477f-9d15-9c4b53b37a3e}
+Args = 
+Attribute = 1
+BigIcon = email_std.g
+Daemon = 0
+Directory = email
+Exec = email
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = EMail
+Type = 2
+UserID = ezx
+
+[bc062df8-aa16-45ff-b890-a1748a744b35]
+AniIcon = 
+AppID = {90b182ae-c160-4a2a-9085-d1ad1b38fb5a}
+Args = ;-1
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = dmfota
+Exec = controller
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = dmfota
+Type = 2
+UserID = ezx
+
+[c17797d8-1b84-4409-b2d9-6fc8e3563ccf]
+AniIcon = pop_vr_ani.g
+AppID = {c17797d8-1b84-4409-b2d9-6fc8e3563ccf}
+Args = 
+Attribute = 1
+BigIcon = pop_vr_std.g
+Daemon = 1
+Directory = vui
+Exec = vr
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = VR
+Type = 2
+UserID = ezx
+
+[c1e0df66-11ef-4b33-bddb-0cbd13827312]
+AniIcon = camera_ani.g
+AppID = {c1e0df66-11ef-4b33-bddb-0cbd13827312}
+Args = 
+Attribute = 1
+BigIcon = camera_std.g
+Daemon = 0
+Directory = camera
+Exec = camera
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Camera
+Type = 2
+UserID = ezx
+
+[c30158ae-e2a7-4d1c-9f6c-3b079c2f4c4e]
+AniIcon = notepad_ani.g
+AppID = {c30158ae-e2a7-4d1c-9f6c-3b079c2f4c4e}
+Args = 
+Attribute = 1
+BigIcon = notepad_std.g
+Daemon = 0
+Directory = notepad
+Exec = notepad
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 1
+Name = Notepad
+Type = 2
+UserID = ezx
+
+[c34463b7-800f-483b-8e01-5ea39730d7d5]
+AniIcon = settings_ani.g
+Attribute = 7
+BigIcon = settings_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Settings
+Type = 1
+
+[ce59717d-fb23-4b7c-8800-25ce613f4042]
+AniIcon = recnt_call_ani.g
+AppID = {ce59717d-fb23-4b7c-8800-25ce613f4042}
+Args = 
+Attribute = 1
+BigIcon = recnt_call_std.g
+Daemon = 0
+Directory = 
+Exec = 
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = RecentCall
+Type = 2
+UserID = ezx
+
+[d8a763c1-ffc4-422e-9c10-4e610c295a43]
+AniIcon = 
+AppID = {3ba4abcc-904d-4b77-9c7c-087eadf26361}
+Args = ;-1
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = dmfota
+Exec = controller_flex
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = dmfota_flex
+Type = 2
+UserID = ezx
+
+[e8c83dac-db4e-4fb5-98a6-61de1998b277]
+AniIcon = office_tools_ani.g
+Attribute = 7
+BigIcon = office_tools_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Office
+Type = 1
+
+[eff907f3-f5c4-44df-8837-6fcca656e8d7]
+AniIcon = dwnld_mgr_ani.g
+AppID = {ea1572d1-bf6c-4533-bd73-98c423b94369}
+Args = 
+Attribute = 1
+BigIcon = dwnld_mgr_std.g
+Daemon = 1
+Directory = downloadmanager
+Exec = downloadmanager
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Download Manager
+Type = 2
+UserID = ezx
+
+[f9563cd6-ef69-44f8-aa73-3bc5decfd7b6]
+AniIcon = connections_ani.g
+AppID = {f9563cd6-ef69-44f8-aa73-3bc5decfd7b6}
+Args = 
+Attribute = 1
+BigIcon = connections_std.g
+Daemon = 0
+Directory = systemsetup
+Exec = connectionsetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Connections
+Type = 2
+UserID = ezx
+
+[f97a1d55-5506-458e-8db1-a00d46ea4df9]
+AniIcon = security_ani.g
+AppID = {f97a1d55-5506-458e-8db1-a00d46ea4df9}
+Args = 
+Attribute = 1
+BigIcon = security_std.g
+Daemon = 0
+Directory = systemsetup
+Exec = ezxsecuritysetup
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = ezx
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 1
+Name = Security Settings
+Type = 2
+UserID = ezx
+
+[fbcd464d-e38f-435c-bbca-b6b95f0030b3]
+AniIcon = 
+AppID = {58223c91-311d-4f7f-9f4b-0f1cc4238cd3}
+Args = 
+Attribute = 1
+BigIcon = 
+Daemon = 1
+Directory = am
+Exec = am
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = 
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = am
+Type = 2
+UserID = 
+
+[fc4eee73-2b5b-4ebd-b6dc-32dd62fbd490]
+AniIcon = Home_CMCC_Service_ani.gif
+AppID = {af8770bf-b66d-4b29-a70b-9de205add992}
+Args = 
+Attribute = 1
+BigIcon = Home_CMCC_Service_B.gif
+Daemon = 0
+Directory = gotone
+Exec = gotone
+FixedAllPosition = 0
+FixedPosition = 0
+GroupId = ezx
+Icon = Home_CMCC_Service_S.gif
+LockEnabled = 0
+MassStorageStatus = 0
+Name = China Mobile In
+Type = 2
+UserID = ezx
+
+[fe948c2a-b7a6-4dac-a1d1-915b3ba57168]
+AniIcon = dialing_service_ani.g
+Attribute = 7
+BigIcon = dialing_service_std.g
+FixedAllPosition = 0
+FixedPosition = 0
+Icon = 
+Name = Dialing Services
+Type = 1
+
+
+
+
+
+
+
+
+
+[AutoRun]
+Apps = 220072c6-9008-468e-9968-11f3c50fa95e;95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40;d233a0f8-3139-423d-a684-039aca6c6123
+
+
+
+
+
+[2040d926-2cc3-4748-aec3-306b729d0a27]
+AniIcon = 
+AppID = {2040d926-2cc3-4748-aec3-306b729d0a27}
+Args = /usr/data_resource/khad/restore.csh;/usr/data_resource/khad/restore.csh
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = ../../bin
+Exec = sh
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Restore Backup
+Type = 2
+UserID = root
+
+[d233a0f8-3139-423d-a684-039aca6c6123]
+AniIcon = 
+AppID = {d233a0f8-3139-423d-a684-039aca6c6123}
+Args = /usr/data_resource/khad/autorun.csh;/usr/data_resource/khad/autorun.csh
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = ../../bin
+Exec = sh
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 0
+MassStorageStatus = 0
+Name = Initialize Mod
+Type = 2
+UserID = root
+
+
+[3425c711-0a30-47c1-b7f0-28d642b78eef]
+AniIcon = 
+AppID = {3425c711-0a30-47c1-b7f0-28d642b78eef}
+Args = /usr/data_resource/khad/telnet.csh;/usr/data_resource/khad/telnet.csh
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = ../../bin
+Exec = sh
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Enable Telnet
+Type = 2
+UserID = root
+
+
+[ff6aa765-220b-46aa-911b-cc03b734e091]
+AniIcon = 
+AppID = {ff6aa765-220b-46aa-911b-cc03b734e091}
+Args = /usr/data_resource/khad/backup.csh;/usr/data_resource/khad/backup.csh
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = ../../bin
+Exec = sh
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Create Backup
+Type = 2
+UserID = root
+
+
+
+[41348216-1cfb-4a42-b6da-5e209ca3503f]
+AniIcon = 
+AppID = {41348216-1cfb-4a42-b6da-5e209ca3503f}
+Args = /usr/data_resource/khad/konzr.csh;/usr/data_resource/khad/konzr.csh
+Attribute = 1
+BigIcon = 
+Daemon = 0
+Directory = ../../bin
+Exec = sh
+FixedAllPosition = 0
+FixedPosition = 0
+GroupID = root
+Icon = 
+LockEnabled = 1
+MassStorageStatus = 0
+Name = Open Terminal
+Type = 2
+UserID = root
+
+
