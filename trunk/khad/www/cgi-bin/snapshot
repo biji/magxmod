@@ -1,0 +1,23 @@
+#!/bin/sh
+# V8Web utilities
+# Display system info by sippey 
+# Feb.20, 2008
+
+if [ "$QUERY_STRING" != "" ] ;then
+	echo "Content-type: image/png"
+	echo ""
+	#no re-entry!!!!
+	. /etc/initservices/services/ezxenv.sh
+	./qtsnap 240 320 /tmp/snapshot.png 0 >/dev/null 2>&1
+	cat /tmp/snapshot.png
+	rm -f /tmp/snapshot.png
+else
+	echo "Content-type: text/html"
+	echo ""
+	echo "<html><head><title>Snapshot</title>"
+	echo '<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"></head>'
+	echo "<body><img src='/cgi-bin/snapshot?snap' /><br>"
+	echo "<input type=button onclick=\"javascript:location.reload();\" value='Refresh'>"
+	echo "<hr>V8 Web snapshot tool<br> powered by qtsnap<br> by sippey (sippey#sina.com)"
+	echo "</BODY></HTML>"
+fi

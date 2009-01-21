@@ -1,0 +1,31 @@
+[SystemPluginPath]
+Default = /usr/lib/ezx/lib/
+
+[{6aff7618-c940-48d9-ad3b-3106d9a884c2}]
+{1d8518cd-e8f5-4366-99e8-879fd7e41011} = libezxalarmserverdefplugin.so
+{344e2e7a-9a6f-466d-9218-a41fbf8c3108} = libezxalarmclock.so
+
+[{067a149d-00b4-4ba3-b839-11ab2dbd88c0}]
+{1d8518cd-e8f5-4366-99e8-879fd7e41112} = libsyncmlalarmplugin.so
+{2b7063c6-e1d7-4958-9ebc-3599be57c4c7} = libezxasalarmplugin.so
+
+[{23723ec3-ab86-408a-86c0-f70ac6f5c153}]
+{3993220e-0452-462e-8438-6291f8a3fc4b} = libezxworldcity.so
+
+[{1e6b9963-24cc-41f8-bbee-a23ae761ff81}]
+{1faef3af-c2c4-4377-82d2-8390f8d168aa} = libezxcalendarui.so
+
+[{90b182ae-c160-4a2a-9085-d1ad1b38fb5a}]
+{c73b26c8-c8c1-4e60-acae-e27f11b1905f} = libezxfotaalarm.so
+
+[{3ba4abcc-904d-4b77-9c7c-087eadf26361}]
+{dfc29496-9ccf-4ec2-8a25-d018f47653ae} = libezxfotaalarm_flex.so
+
+[{9a4cdb74-34ec-415e-ba36-b8c2a35d0071}]
+{4ae0f2da-a3f4-413f-801b-1962f913308a} = libezxtaskengine.so
+
+[{5af701f6-33e3-4fe6-b15e-b7ef7c986c74}]
+{666c24d8-f74f-46ab-96f2-79b42a30a33d} = libezxsetupalarmplugin.so
+
+[{bb621a8f-c681-477f-9d15-9c4b53b37a3e}]
+{552d39cf-db92-4628-8c56-1b39e211914f} = libezxemailalarmplugin.so

@@ -1,0 +1,71 @@
+#!/bin/sh
+# V8Web utilities
+# Display system info by sippey 
+# Feb.3, 2008
+
+TITLE="System Information"
+RIGHT_NOW=$(date +"%x %r %Z")
+TIME_STAMP="Updated on $RIGHT_NOW"
+
+alias b=busybox
+
+##### Functions
+
+env_var()
+{
+		echo "<h2>Environment Variables</h2>"
+    echo "<PRE>"
+    env
+    echo "</PRE>"
+}   # end of env_var
+
+
+system_info()
+{
+		echo "<h2>System release info</h2>"
+    echo "<PRE>"
+    uname -a
+    echo "</PRE>"
+}   # end of system_info
+
+show_uptime()
+{
+    echo "<h2>System uptime</h2>"
+    echo "<pre>"
+    b uptime
+    echo "</pre>"
+
+}   # end of show_uptime
+
+
+drive_space()
+{
+    echo "<h2>Filesystem space</h2>"
+    echo "<pre>"
+    df -h
+    echo "</pre>"
+
+}   # end of drive_space
+
+
+
+##### Main
+
+cat <<- _EOF_
+Content-type: text/html
+
+  <html>
+  <head>
+      <title>$TITLE</title>
+      <meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+  </head>
+  <body>
+      <h1>$TITLE</h1>
+      <p>$TIME_STAMP</p>
+      $(system_info)
+      $(show_uptime)
+      $(drive_space)
+      $(env_var)
+  </body>
+  </html>
+_EOF_

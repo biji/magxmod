@@ -1,0 +1,178 @@
+[text/html]
+AppList = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40};
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+
+[text/vnd.wap.wml]
+AppList = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40};
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+
+
+[text/im]
+AppList = {949dc9d2-8ca6-44d9-9f21-67fac1177a22};
+AppID = {949dc9d2-8ca6-44d9-9f21-67fac1177a22}
+
+[image/jpeg]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[image/png]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[image/gif]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[image/bmp]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[image/vnd.wap.wbmp]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+                                                                                                                                    
+[audio/amr]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/midi]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mid]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-wav]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mpeg]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/aac]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/ctg]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/awb]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/amr-wb]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-realaudio]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-pn-realaudio-encrypted]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/wma]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mp4a]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mp4]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/3gpp]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/m4a]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-m4a]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mp3]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[video/vnd.rn-realvideo]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-pn-realaudio]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-mid]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/x-midi]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/xmf]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/sp-midi]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/mxmf]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/xmf0]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[audio/xmf1]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[application/vnd.rn-realmedia]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[video/mp4v-es]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[video/mp4]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[video/x-msvideo]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[video/3gp]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[application/sdp]
+AppList = {ba63e2ca-089c-4a95-8e13-81522eed47a0};
+AppID = {ba63e2ca-089c-4a95-8e13-81522eed47a0}
+
+[application/x-vbookmark]
+AppList = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40};
+AppID = {95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40}
+
+[image/vnd.ziyitong.vis]
+AppList = {b92adf27-d073-451d-a990-4ac5e0c87596};
+AppID = {b92adf27-d073-451d-a990-4ac5e0c87596}
+
+[image/vnd.ziyitong.zdd]
+AppList = {b92adf27-d073-451d-a990-4ac5e0c87596};
+AppID = {b92adf27-d073-451d-a990-4ac5e0c87596}
+
+
