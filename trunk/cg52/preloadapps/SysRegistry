@@ -1111,7 +1111,7 @@ Apps = 220072c6-9008-468e-9968-11f3c50fa95e;95ffa462-7e2f-49a9-9e6d-f8f63b2f3c40
 [2040d926-2cc3-4748-aec3-306b729d0a27]
 AniIcon = 
 AppID = {2040d926-2cc3-4748-aec3-306b729d0a27}
-Args = /usr/data_resource/khad/restore.csh;/usr/data_resource/khad/restore.csh
+Args = /usr/data_resource/khad/restore.sh;/usr/data_resource/khad/restore.sh
 Attribute = 1
 BigIcon = 
 Daemon = 0
@@ -1130,7 +1130,7 @@ UserID = root
 [d233a0f8-3139-423d-a684-039aca6c6123]
 AniIcon = 
 AppID = {d233a0f8-3139-423d-a684-039aca6c6123}
-Args = /usr/data_resource/khad/autorun.csh;/usr/data_resource/khad/autorun.csh
+Args = /usr/data_resource/khad/autorun.sh;/usr/data_resource/khad/autorun.sh
 Attribute = 1
 BigIcon = 
 Daemon = 0
@@ -1150,7 +1150,7 @@ UserID = root
 [3425c711-0a30-47c1-b7f0-28d642b78eef]
 AniIcon = 
 AppID = {3425c711-0a30-47c1-b7f0-28d642b78eef}
-Args = /usr/data_resource/khad/telnet.csh;/usr/data_resource/khad/telnet.csh
+Args = /usr/data_resource/khad/telnet.sh;/usr/data_resource/khad/telnet.sh
 Attribute = 1
 BigIcon = 
 Daemon = 0
@@ -1170,7 +1170,7 @@ UserID = root
 [ff6aa765-220b-46aa-911b-cc03b734e091]
 AniIcon = 
 AppID = {ff6aa765-220b-46aa-911b-cc03b734e091}
-Args = /usr/data_resource/khad/backup.csh;/usr/data_resource/khad/backup.csh
+Args = /usr/data_resource/khad/backup.sh;/usr/data_resource/khad/backup.sh
 Attribute = 1
 BigIcon = 
 Daemon = 0
@@ -1191,7 +1191,7 @@ UserID = root
 [41348216-1cfb-4a42-b6da-5e209ca3503f]
 AniIcon = 
 AppID = {41348216-1cfb-4a42-b6da-5e209ca3503f}
-Args = /usr/data_resource/khad/konzr.csh;/usr/data_resource/khad/konzr.csh
+Args = /usr/data_resource/khad/konzr.sh;/usr/data_resource/khad/konzr.sh
 Attribute = 1
 BigIcon = 
 Daemon = 0
