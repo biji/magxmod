@@ -7,7 +7,7 @@ addlog "starting telnet"
 
 /usr/local/bin/vendor_usb 13
 sleep 5
-if ! ifconfig | grep -q 192.168.16.2; then ifconfig usbl0 192.168.16.2 broadcast 192.168.16.7 netmask 255.255.255.248; fi 
+ifconfig usbl0 192.168.16.2 netmask 255.255.255.0 
 
 
 
