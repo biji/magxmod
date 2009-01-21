@@ -3,7 +3,7 @@
 
 
 
-. /usr/data_resource/khad/common.csh
+. /usr/data_resource/khad/common.sh
 addlog "system started"
 
 
@@ -42,6 +42,6 @@ busybox sed -i 's/JavaHeapSize = .*/JavaHeapSize = 5/'  ezx_system.cfg
 
 
 #run custom script
-$EXPATH/autorun.csh
+$EXPATH/autorun.sh
 
 

@@ -1,7 +1,7 @@
 #!/bin/sh
 
 
-. /usr/data_resource/khad/common.csh
+. /usr/data_resource/khad/common.sh
 addlog "restoring backup"
 
 
