@@ -2,13 +2,17 @@
 
 = Introduction =
 
-I want to connect internet without gprs, my laptop has connected to internet. I use USBLan connection to laptop. 
+I want to connect internet without gprs, my laptop already has connected to internet.
 
 
 
 = Details =
 
+I use USBLan connection to laptop. 
+
+
 Laptop IP: 192.168.16.1
+
 Phone IP: 192.168.16.2
 
 What i have tried:
