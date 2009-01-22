@@ -42,6 +42,6 @@ busybox sed -i 's/JavaHeapSize = .*/JavaHeapSize = 5/'  ezx_system.cfg
 
 
 #run custom script
-$EXPATH/autorun.sh
+$EZPATH/autorun.sh
 
 
