@@ -1,0 +1,11 @@
+#summary Sending sms from command line
+
+= Introduction =
+
+How to send sms from command line
+
+
+= Details =
+
+Maybe using at command?
+just not know yet
