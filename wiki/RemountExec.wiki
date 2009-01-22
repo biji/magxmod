@@ -1,0 +1,10 @@
+#summary remount partition so we can execute binary from there
+
+= Introduction =
+
+mount locked by kernel security
+
+
+= Details =
+
+Not known yet..
