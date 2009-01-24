@@ -9,16 +9,16 @@ Backup and restore contact, calendar, settings
 
 #all settings
 
-/ezxlocal/download/mystuff/Backup/setup/*
+`/ezxlocal/download/mystuff/Backup/setup/*`
 
 
 #data connections
 
-/ezxlocal/download/mystuff/Backup/NetProfile/*
+`/ezxlocal/download/mystuff/Backup/NetProfile/*`
 
 
 #contact, calendar, etc
 
-/ezxlocal/sysDatabase/*
+`/ezxlocal/sysDatabase/*`
 
 don't copy just main.db but also log* file
