@@ -21,4 +21,4 @@ Backup and restore contact, calendar, settings
 
 `/ezxlocal/sysDatabase/*`
 
-don't copy just main.db but also log* file
+don't copy just main.db but also `log*` file or it won't be restored or can't add contact
