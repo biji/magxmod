@@ -11,6 +11,6 @@ cp -r "$MYPATH/konzr" $EZPATH/tmp
 
 sleep 2
 cd $EZPATH/tmp/konzr
-exec ./konzr >> konzr.log 2>&1
+exec ./konzr -r >> konzr.log 2>&1
 
 
