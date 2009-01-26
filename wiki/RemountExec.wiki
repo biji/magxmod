@@ -10,6 +10,6 @@ mount locked by kernel security
 
 with cg36 modified.. we can remove startup script which links to /etc/initservices/services/mot_security.sh
 
-with removing that script mount restricted should be avoided
+by removing that script, mount restriction should be avoided
 
 * not tested.. *
