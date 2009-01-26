@@ -8,4 +8,5 @@ busybox killall httpd bftpd inetd
 
 busybox killall vr
 
+busybox killall dnsmasq
 
