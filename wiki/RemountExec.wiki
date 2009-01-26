@@ -1,10 +1,15 @@
-#summary remount partition so we can execute binary from there
+#summary mount and remount without restriction
 
 = Introduction =
 
+remount partition so we can execute binary from there but 
 mount locked by kernel security
 
 
 = Details =
 
-Not known yet..
+with cg36 modified.. we can remove startup script which links to /etc/initservices/services/mot_security.sh
+
+with removing that script mount restricted should be avoided
+
+* not tested.. *
