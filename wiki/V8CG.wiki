@@ -6,18 +6,29 @@ V8 firmware chunked into parts.... called CG
 
 = Details =
 
-Initiated by Kleto:
+
+From kernel command line:
+ipu_mem=4896K@0x93700000 ipu_mem=4896K@0x93700000 brdrev=P2A noinitrd console=/dev/null rw mem=60M@0x90000000 init=/linuxrc ip=off root=/dev/mtdblock/root mtdparts=nand0:1152k@1m(pds),128k(setup),256k(logo),128k(secure),1536k(kern)ro,3968k(bpsw),29m(root)ro,7680k(lang),7m(user),14848k(resrc),445696k(mass_storage),128k(kpanic),10880k(rsv)
+
+
+CG description:
 
 {{{
 CG30 BootLoader = Application (only in shx is used to change boot CG30 and CG32)
-CG31 = Species list of things the cell (not tested)
-CG34 = BootLoader Linux (not tested)
-CG35 = Kernel (not tested)
-CG36 Filesystem = "root" (Recommended)
-CG37 Filesystem = "user" (problems)
-CG42 = bootlogo (Recommended)
-CG43 = configuration (config files, etc.). (Recommended)
-CG44 = Security Settings (certificates and others.) (Recommended)
-CG46 = Language Package (Recommended)
-CG52 = resources (games, ringtones, skins, pictures, etc.). (Recommended)
+CG31 = blank?
+CG34 = blank?
+CG35 = Linux Kernel
+CG36 Filesystem = "root" /
+CG37 Filesystem = "user" /ezxlocal
+CG41 = blank?
+CG42 = boot logo
+CG43 = default configuration /usr/setup
+CG44 = Secure Setup (certificates and others.) /usr/securesetup 
+CG45 = bpsw?
+CG46 = Language Package /usr/language
+CG48 = PDS?
+CG49 = blank?
+CG52 = Resources (games, ringtones, skins, pictures, etc.) /usr/data_resource
 }}}
+
+there seems unallocated cg size 10 MB (rsv)
