@@ -11,24 +11,34 @@ From kernel command line:
 ipu_mem=4896K@0x93700000 ipu_mem=4896K@0x93700000 brdrev=P2A noinitrd console=/dev/null rw mem=60M@0x90000000 init=/linuxrc ip=off root=/dev/mtdblock/root mtdparts=nand0:1152k@1m(pds),128k(setup),256k(logo),128k(secure),1536k(kern)ro,3968k(bpsw),29m(root)ro,7680k(lang),7m(user),14848k(resrc),445696k(mass_storage),128k(kpanic),10880k(rsv)
 
 
-CG description:
+||Code Group 	|| Signed? 	|| Name (Mem Map) ||	 Contents||
+||30 ||	Yes ||	mbm.img ||	Motorola Boot Manager (MBM)||
+||31(a) ||	Yes ||	mbmloader.img ||	Ramloader||
+||31(b) ||	Yes ||	cdt.bin ||	MEM_MAP (see below)||
+||32|| 	Yes ||		      ||  Baseband Bootloader||
+||34 ||	Yes ||	lbl 	     ||   Linux Boot Loader||
+||35 	||Yes ||	zImage ||	        Kernel||
+||36|| 	Yes ||	rootfs.img ||	Squashfs image mounted as / (root)||
+||37 ||	No ||	userfs.img ||	Jffs2 image mounted as /ezxlocal||
+||38 ||	No ||pdsfs.img 	||Yaffs2 image mounted as /etc/pds||
+||41 ||	Yes ||	atags.img ||	Kernel boot parameters||
+||42 ||	No ||	logo.bin ||	Boot Logo||
+||43 ||	No ||setup.img 	||Squashfs image mounted as /usr/setup||
+||44 ||	Yes ||	securesetup.img 	||Squashfs image mounted as /usr/securesetup||
+||45 ||	Yes ||	gsm_scmall_build.bin ||	Baseband software||
+||46 ||	Yes ||	language.img ||	Squashfs image mounted as /usr/language||
+||48 ||	No ||	mass_storage.img ||	Yaffs2 image mounted as /mnt/msc_int0   ||     
+||   ||    ||       ||  Contains a vfat img loop mounted as /ezxlocal/download/mystuff||
+||49 ||	Yes ||	usb_firm.bin ||	USB Firmware||
+||52 ||	No ||	resource.img ||	Squashfs image mounted as /usr/data_resource||
+||53 ||	No ||	kpanic ||	kernel panic dump||
+||54 ||	No ||	rsv 	|| Reserved? 10 MB ||
+||55 ||	No ||	mbmbackup.img ||	(Motorola Boot Manager backup?)||
+||56 ||	No ||	bploader.img ||	||
 
-{{{
-CG30 BootLoader = Application (only in shx is used to change boot CG30 and CG32)
-CG31 = blank?
-CG34 = blank?
-CG35 = Linux Kernel
-CG36 = "root" /
-CG37 = "user" /ezxlocal
-CG41 = blank?
-CG42 = boot logo
-CG43 = default configuration /usr/setup
-CG44 = Secure Setup (certificates and others.) /usr/securesetup 
-CG45 = bpsw?
-CG46 = Language Package /usr/language
-CG48 = mass storage (will delete your Pictures etc.)
-CG49 = blank?
-CG52 = Resources (games, ringtones, skins, pictures, etc.) /usr/data_resource
-}}}
+
 
 there seems unallocated cg size 10 MB (rsv)
+
+
+Ref: http://wiki.openezx.org/MotoMAGX_Security
