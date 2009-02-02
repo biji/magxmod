@@ -26,7 +26,7 @@ CG43 = default configuration /usr/setup
 CG44 = Secure Setup (certificates and others.) /usr/securesetup 
 CG45 = bpsw?
 CG46 = Language Package /usr/language
-CG48 = PDS?
+CG48 = mass storage (will delete your Pictures etc.)
 CG49 = blank?
 CG52 = Resources (games, ringtones, skins, pictures, etc.) /usr/data_resource
 }}}
