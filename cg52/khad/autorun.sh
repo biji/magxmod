@@ -29,7 +29,7 @@ mkdir $EZPATH/tmp
 
 #crontab
 busybox crond
-echo -ne '10 12 * * * busybox killall vr\n' | busybox crontab -
+echo -ne "10 12 * * * sh $MYPATH/sanity.sh\n" | busybox crontab -
 
 
 
