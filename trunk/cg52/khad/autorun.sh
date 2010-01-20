@@ -35,8 +35,8 @@ echo -ne "10 12 * * * sh $MYPATH/sanity.sh\n" | busybox crontab -
 
 
 #configs
-busybox sed -i 's/JSR135_Volume = .*/JSR135_Volume = 1/'  ezx_system.cfg 
-busybox sed -i 's/JavaHeapSize = .*/JavaHeapSize = 5/'  ezx_system.cfg 
+busybox sed -i 's/JavaHeapSize = .*/JavaHeapSize = 5/'  /ezx_user/download/appwrite/setup/ezx_system.cfg
+busybox sed -i 's/JSR135_Volume = .*/JSR135_Volume = 1/'  /ezx_user/download/appwrite/setup/ezx_system.cfg
 
 
 
